@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Dashbord_client
 # client_dashbord
 # client_dashbord
+# client_dashbord
